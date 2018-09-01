@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListService", "TodoListService\TodoListService.csproj", "{047CDEF7-D5BA-4B1E-9748-910B610CCA51}"
 EndProject
@@ -12,6 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{47FCEE
 		.nuget\NuGet.Config = .nuget\NuGet.Config
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C8DBECA-19C1-4C27-8328-659C8E9D2213}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\v-prmuni\Documents\Azure Web to API Authentication.docx = C:\Users\v-prmuni\Documents\Azure Web to API Authentication.docx
 	EndProjectSection
 EndProject
 Global
