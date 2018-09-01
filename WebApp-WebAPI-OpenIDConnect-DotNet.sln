@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		C:\Users\v-prmuni\Documents\Azure Web to API Authentication.docx = C:\Users\v-prmuni\Documents\Azure Web to API Authentication.docx
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelpDocument", "HelpDocument", "{5A1A1DC2-B324-41FB-A7B9-BA62228E4EB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
